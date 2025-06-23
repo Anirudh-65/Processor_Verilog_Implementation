@@ -1,0 +1,11 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto 19d3eeb95ee24718909b571f66c077b9 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot Processor_tb3_behav xil_defaultlib.Processor_tb3 xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 8 for port 'B' [E:/Tiny_Processor/Tiny_Processor.srcs/sources_1/new/ALU.v:40]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 8 for port 'B' [E:/Tiny_Processor/Tiny_Processor.srcs/sources_1/new/ALU.v:41]
+WARNING: [VRFC 10-5021] port 'clk' is not connected on this instance [E:/Tiny_Processor/Tiny_Processor.srcs/sources_1/new/Processor.v:48]
+Completed static elaboration
+INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel
