@@ -27,23 +27,6 @@ The processor’s response was validated via waveform inspection in Vivado.
 
 ---
 
-##  Simulation Screenshots
-
-Below are annotated waveform screenshots captured from Vivado to illustrate the processor’s behavior during simulation:
-
-### 1. Instruction Fetch & PC Increment  
-![Simulation Screenshot 1](assets/sim1.png)
-
-### 2. ALU Operation (ADD/SUB) & Write-back  
-![Simulation Screenshot 2](assets/sim2.png)
-
-### 3. Load/Store Operations & Final Register Snapshot  
-![Simulation Screenshot 3](assets/sim3.png)
-
-> Place these screenshots as `sim1.png`, `sim2.png`, and `sim3.png` inside the `assets/` folder.
-
----
-
 ##  Final Insights
 
 The processor passed all test scenarios and exhibited correct control and datapath behavior. Observing the waveform closely helped us validate each stage of execution and debug minor signal mismatches early. The overall project reinforced practical understanding of RTL modeling, module interfacing, and verification through simulation.
