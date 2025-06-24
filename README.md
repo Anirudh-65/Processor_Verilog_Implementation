@@ -23,6 +23,11 @@ B.Tech Electrical Engineering
 Indian Institute of Technology Gandhinagar  
 anirudh.mittal@iitgn.ac.in
 
+**Anurag Singh**  
+B.Tech Computer Science and Engineering  
+Indian Institute of Technology Gandhinagar  
+singh.anurag@iitgn.ac.in
+
 ## Acknowledgements
 
 This project was conducted under the mentorship of **Prof. Joycee Mekie** at IIT Gandhinagar. We sincerely thank her for her valuable guidance and for providing us the opportunity to explore processor architecture and digital logic design hands-on.
